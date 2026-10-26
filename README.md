@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
