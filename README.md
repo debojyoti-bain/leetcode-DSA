@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -41,6 +42,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
