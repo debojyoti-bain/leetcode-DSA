@@ -49,4 +49,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/3360-stone-removal-game) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
