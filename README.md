@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/debojyoti-bain/leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
